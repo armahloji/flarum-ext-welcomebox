@@ -1,0 +1,18 @@
+flarum-ext-welcomebox:
+  forum:
+    wback: خوش آمدید
+    npost: => core.ref.posts
+    discussion: => core.ref.discussions
+    welcomeguest: خوش آمدید
+    notregistered:شما هنوز در کلوپ حسابداری ایران عضو نشده اید
+    goToProfile: پروفایل
+    SettingsLink: تنظیمات
+    tooltipProfile: پروفایل
+    tooltipMentions: اشارات
+    tooltipDisclist: لیست مباحث من
+    lastSeen: آخرین بازدید
+  admin:
+    enablepostbox: Enable Welcome Box for guest
+    img: Image url (Guest Box)
+    img-help: put here the url of image for guest box
+    UseWidget: Use Widget Version
